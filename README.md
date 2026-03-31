@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/b837ae85-7209-496a-ab6e-e3b10d121af8" alt="Foto de Perfil Arcentales" style="border-radius: 50%; width: 1000px; height: 90px; border: 2px solid #31859C;" />
+  <img src="https://github.com/user-attachments/assets/b837ae85-7209-496a-ab6e-e3b10d121af8" alt="Foto de Perfil Arcentales" style="border-radius: 50%; width: 100px; height: 90px; border: 2px solid #31859C;" />
 </div>
 
 ## ¡Hola! 👋 Soy Arcentales
