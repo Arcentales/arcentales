@@ -1,8 +1,5 @@
 <div align="center">
-
-
-  ![WhatsApp Image 2026-01-24 at 10 29 42 PM](https://github.com/user-attachments/assets/b837ae85-7209-496a-ab6e-e3b10d121af8)
-
+  <img src="https://github.com/user-attachments/assets/b837ae85-7209-496a-ab6e-e3b10d121af8" alt="Foto de Perfil Arcentales" style="border-radius: 50%; max-width: 150px; width: 100%; border: 2px solid #31859C;" />
 </div>
 
 ## ¡Hola! 👋 Soy Arcentales
